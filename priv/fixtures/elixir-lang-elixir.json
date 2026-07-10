@@ -1,0 +1,74 @@
+[
+  {
+    "number": 4021,
+    "title": "Compiler warning on unused module attribute",
+    "state": "open",
+    "labels": [{ "name": "bug" }],
+    "created_at": "2026-05-14T09:30:00Z",
+    "comments": 12,
+    "user": { "login": "mariam-dev" }
+  },
+  {
+    "number": 4018,
+    "title": "Docs: clarify GenServer timeout semantics",
+    "state": "open",
+    "labels": [{ "name": "docs" }],
+    "created_at": "2026-05-11T18:04:00Z",
+    "comments": 3,
+    "user": { "login": "tomasz" }
+  },
+  {
+    "number": 4007,
+    "title": "mix format is slow on very large files",
+    "state": "closed",
+    "labels": [{ "name": "bug" }, { "name": "performance" }],
+    "created_at": "2026-04-29T07:12:00Z",
+    "comments": 27,
+    "user": { "login": "ines-p" }
+  },
+  {
+    "number": 3999,
+    "title": "Proposal: Enum.split_by/2",
+    "state": "open",
+    "labels": [{ "name": "enhancement" }],
+    "created_at": "2026-04-21T14:45:00Z",
+    "comments": 41,
+    "user": { "login": "kwame" }
+  },
+  {
+    "number": 3990,
+    "title": "Dialyzer false positive with with/else",
+    "state": "closed",
+    "labels": [{ "name": "bug" }],
+    "created_at": "2026-04-12T11:00:00Z",
+    "comments": 8,
+    "user": { "login": "lena-b" }
+  },
+  {
+    "number": 3984,
+    "title": "Improve error message for KeyError on structs",
+    "state": "open",
+    "labels": [{ "name": "enhancement" }, { "name": "good first issue" }],
+    "created_at": "2026-04-02T20:19:00Z",
+    "comments": 0,
+    "user": { "login": "diego-r" }
+  },
+  {
+    "number": 3971,
+    "title": "Docs: mix release environment variable handling",
+    "state": "closed",
+    "labels": [{ "name": "docs" }],
+    "created_at": "2026-03-25T08:40:00Z",
+    "comments": 5,
+    "user": { "login": "aiko" }
+  },
+  {
+    "number": 3958,
+    "title": "String.split/3 with :parts and trim interaction",
+    "state": "open",
+    "labels": [],
+    "created_at": "2026-03-14T16:22:00Z",
+    "comments": 19,
+    "user": { "login": "pnw-sam" }
+  }
+]
